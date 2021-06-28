@@ -8,4 +8,3 @@
 <span>4.原创境界排行榜</span><br>
 <span>5.签到奖励更新</span><br>
 <span>祝您游戏愉快！</span><br>
-</html>
